@@ -52,7 +52,7 @@ export default function Hero() {
                                 aquarius.lucinde.ai
                             </span>
                             <span className="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-300">
-                                <span>Just shipped v1.0</span>
+                                <span>Just shipped v0.1.0</span>
                                 <ChevronRightIcon className="h-5 w-5 text-gray-500" aria-hidden="true" />
                             </span>
                         </a>
